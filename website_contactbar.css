@@ -1,0 +1,25 @@
+.doc {
+    background-repeat: no-repeat;
+    image-rendering: auto;
+    background-image: url(https://www.somaiya-ayurvihar.org/assets/arigel_general/img/Homepage/footer_band.jpg);
+    width: 100%;
+    background-size: cover;
+    padding: 20px;
+
+}
+
+.b {
+    width: 150px;
+    height: 45px;
+    display: inline-block;
+    text-align: center;
+    margin: 4px 2px;
+    background-color: #ed9205;
+    color: whitesmoke;
+    font-size: 16px;
+    border: 1px solid #ed9205;
+}
+
+.b:hover{
+    opacity:0.7;
+}

@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+    font-family: Arial;
+    height: 350px;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    top: 200px;
+    color: rgb(22, 22, 78);
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 30px;
+    font-size: 30px;
+}
